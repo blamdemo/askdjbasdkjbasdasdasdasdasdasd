@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asjdhbaslkdjba
+  description: asdalskdn
+  annotations: 
+    github.com/project-slug: blamdemo/askdjbasdkjbasdasdasdasdasdasd
+    backstage.io/github-actions-id: blamdemo/askdjbasdkjbasdasdasdasdasdasd
+spec:
+  type: service
+  lifecycle: experimental
+  owner: benjdlambert
